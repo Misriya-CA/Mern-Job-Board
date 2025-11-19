@@ -39,7 +39,7 @@ root
 
 
 How to run:
-Clone the Repository
+Clone the Repository:git clone https://github.com/Misriya-CA/Mern-Job-Board.git
 
 Frontend:
 -cd job-frontend
